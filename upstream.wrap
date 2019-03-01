@@ -1,0 +1,7 @@
+[wrap-file]
+directory = nlohmann_json-3.5.0
+lead_directory_missing = true
+source_url = https://github.com/nlohmann/json/releases/download/v3.5.0/include.zip
+source_filename = nlohmann_json-3.5.0.zip
+source_hash = 3564da9c5b0cf2e032f97c69baedf10ddbc98030c337d0327a215ea72259ea21
+
